@@ -39,9 +39,9 @@ function NavBar() {
             className="d-flex"
             style={{ color: "#00aaff", marginBottom: "2px" }}
         >
-          ZYT
-          <span style={{ color: "#ffffff", margin: "0 8px" }}>✦</span>
           MAGICHERRY
+          <span style={{ color: "#ffffff", margin: "0 8px" }}>×</span>
+          ZYT
         </Navbar.Brand>
 
 

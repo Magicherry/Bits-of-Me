@@ -84,7 +84,7 @@ function NavBar() {
             </Nav.Item> */}
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/Magicherry"
+                href="https://github.com/Magicherry/peronsalwebsite"
                 target="_blank"
                 className="fork-btn-inner"
               >

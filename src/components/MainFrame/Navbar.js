@@ -37,11 +37,8 @@ function NavBar() {
         <Navbar.Brand
             href="/"
             className="d-flex"
-            style={{ color: "#00aaff", marginBottom: "2px" }}
         >
-          MAGICHERRY
-          <span style={{ color: "#ffffff", margin: "0 8px" }}>×</span>
-          ZYT
+          MAGICHERRY.
         </Navbar.Brand>
 
 

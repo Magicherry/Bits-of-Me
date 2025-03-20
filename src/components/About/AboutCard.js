@@ -4,8 +4,8 @@ import { ImPointRight } from "react-icons/im";
 
 const activities = [
   "Writing Tech Blogs",
-  "Browsing Tech Reviews",
   "Experiencing Games",
+  "Browsing Tech | Movie & TV Reviews",
   "Photography & Videography"
 ];
 
@@ -38,7 +38,7 @@ const AboutCard = () => {
           <p className="blue" style={{ marginTop: "40px" }}>
             <em>"No matter what your dream is, you have to dedicate yourself entirely to it"</em>
           </p>
-          <footer className="blockquote-footer">Ayrton Senna</footer>
+          <footer className="blockquote-footer">AYRTON SENNA</footer>
         </blockquote>
       </Card.Body>
     </Card>

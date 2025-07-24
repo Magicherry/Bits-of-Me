@@ -3,5 +3,5 @@ body {
   font-family: "Raleway", serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #040B13;
+  background-image: var(--bg-body);
 }

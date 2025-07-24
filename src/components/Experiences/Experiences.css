@@ -47,11 +47,10 @@
     background: linear-gradient(
             135deg,
             rgba(54, 115, 134, 0.2) 0%,
-            rgba(60, 135, 150, 0.22) 25%,
-            rgba(71, 169, 179, 0.25) 50%,
-            rgba(60, 135, 150, 0.22) 75%,
-            rgba(54, 115, 134, 0.2) 100%
+            rgba(60, 135, 150, 0.22) 50%,
+            rgba(71, 169, 179, 0.25) 100%
     ) !important;
+
 
 
     backdrop-filter: blur(12px) brightness(1.05) !important;

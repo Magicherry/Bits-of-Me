@@ -35,7 +35,7 @@ function NavBar({ triggerPreloader }) {
       if (atBottom) {
         setIsNavbarHidden(false);
       } else if (scrollY > lastScrollYRef.current && scrollY > 80) {
-        setIsNavbarHidden(true);
+        setIsNavbarHidden(false); //true is open auto hidden
       } else {
         setIsNavbarHidden(false);
       }

@@ -34,7 +34,7 @@
 
 ## Visual Enhancements
 
-- Applied consistent border-radius styling across buttons, cards, modals, and containers to create a smoother, modernized appearance.
+- Unified border-radius across buttons, cards, modals, and containers, and incorporated glassmorphic components for a modern interface.
 - Integrated a light `Particle.js` effect on the homepage to enrich visual depth without distraction.
 - Added entrance and exit animations to major pages for a more fluid and polished browsing experience.
 - Enhanced user interaction by adding hover, tap, and motion-based animations across navigational links, buttons, and project items.
